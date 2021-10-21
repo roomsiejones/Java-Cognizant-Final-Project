@@ -27,11 +27,17 @@ This project is licensed under the mit license.
 
 ## Installation
 Must have: Node, MySQL workbench, Java IDE
+
 Clone repo locally
+
 Use the schema files in product and services to create the databases needed
+
 Import the csv data into the shoes table in the product database, changing the names category to shoe-names
+
 run npm install at the root directory of the front-end folder
+
 run the config server, server registry, product services, customer services, stripe services, and edge servers
+
 run npm start
 
     
