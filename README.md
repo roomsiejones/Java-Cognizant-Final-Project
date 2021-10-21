@@ -25,7 +25,7 @@ As such, this application is an e-commerce application built with a React Front-
 ## License
 This project is licensed under the mit license.
 
-##Installation
+## Installation
 Must have: Node, MySQL workbench, Java IDE
 Clone repo locally
 Use the schema files in product and services to create the databases needed
