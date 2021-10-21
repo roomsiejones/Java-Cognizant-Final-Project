@@ -34,16 +34,18 @@ Use the schema files in product and services to create the databases needed
 
 Import the csv data into the shoes table in the product database, changing the names category to shoe-names
 
-run npm install at the root directory of the front-end folder
+Run npm install at the root directory of the front-end folder
 
-run the config server, server registry, product services, customer services, stripe services, and edge servers
+Run the config server, server registry, product services, customer services, stripe services, and edge servers
 
-run npm start
+Run npm start
 
     
 ## Contribution 
     
-Sole Contributor 
+This is forked from the original repo, to see contributors please visit the original repo. 
+
+Worked on in an AGILE environment.
 
 If you wish to make contributions, please contact me below, first.
 
