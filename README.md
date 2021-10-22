@@ -43,7 +43,7 @@ Run npm start
     
 ## Contribution 
     
-This is forked from the original repo, to see contributors please visit the original repo. 
+This is forked from the original repo, to see contributions or commit history, please visit the original repo. 
 
 Worked on in an AGILE environment.
 
@@ -61,8 +61,7 @@ If you wish to make contributions, please contact me below, first.
 
 ## Questions
 To contact me or report issues, please email me at jonathonrenaud1988@gmail.com
-
-Go to https://github.com/RoomsieJones to view my github profile.    
+   
 
 ## Links
 
