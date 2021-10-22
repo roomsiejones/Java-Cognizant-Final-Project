@@ -9,7 +9,9 @@ The purpose of this app was to meet the requirements of the following user story
 
 
 As a Shoe Aficionado
+
 I want to have an online store that has high-end shoes
+
 So that I can share my personally sourced, high class shoes with other like-minded buyers
  
 As such, this application is an e-commerce application built with a React Front-end and a Java/Spring Boot back-end.  It has a microservice architecture and also utilized Stripe. 
