@@ -47,6 +47,15 @@ This is forked from the original repo, to see contributors please visit the orig
 
 Worked on in an AGILE environment.
 
+ ### Front-End:
+  Jonathon Renaud: https://github.com/roomsiejones
+  <br>
+  Jacob Beeson: https://github.com/boxnbeeson
+  ### Back-End:
+  Rob Perez: https://github.com/perez-rob
+  <br>
+  Meg Meyers: https://github.com/femke77
+
 If you wish to make contributions, please contact me below, first.
 
 
